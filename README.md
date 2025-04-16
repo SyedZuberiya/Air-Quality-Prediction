@@ -65,23 +65,23 @@ Performance Metrics:
 
 **📊 Results & Visualizations**
 
-1. **✅ Correlation Heatmap**
+**✅ Correlation Heatmap**
    
 Visualizes the correlations between key features, highlighting relationships that influence CO(GT) concentration.
 ![image](https://github.com/user-attachments/assets/f7990e47-3f74-4a4d-bf7e-ad189ad50592)
-2. **✅ Actual vs Predicted Plot**
+**✅ Actual vs Predicted Plot**
 
 Compares actual vs predicted CO(GT) values to assess prediction accuracy. Points closer to the red line indicate better predictions.
 ![image](https://github.com/user-attachments/assets/e542315a-43b9-46b5-b697-dae679c91707)
-3. **✅ Residuals Distribution**
+**✅ Residuals Distribution**
 
 Shows the distribution of residuals (prediction errors). Ideally, residuals should be centered around zero, indicating good model fit.
 ![image](https://github.com/user-attachments/assets/94be0848-3c38-41c5-8b47-46db0632f8da)
-4. **✅ Residuals vs Predictions**
+**✅ Residuals vs Predictions**
 
 Examines if residuals are randomly distributed. A random spread suggests the model captured all patterns in the data.
 ![image](https://github.com/user-attachments/assets/49c377f3-80c5-4ad1-88d9-81d98b74a43e)
-5.**✅ Feature Coefficients**
+**✅ Feature Coefficients**
 
 Displays feature importance based on regression coefficients, showing which variables most influence CO(GT) predictions.
 ![image](https://github.com/user-attachments/assets/b512788f-79af-444d-b206-e1b617b1c36d)
