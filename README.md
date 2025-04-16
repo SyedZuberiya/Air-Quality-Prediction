@@ -1,7 +1,9 @@
 **📌 Project Overview**
+
 This project predicts air quality levels using machine learning. By analyzing environmental factors such as temperature, humidity, and wind speed, the model forecasts air pollutants like CO, NO2, O3, and PM2.5, helping to understand and predict air quality trends.
 
 **🚀 Features**
+
 Data Preprocessing: Cleans and prepares the dataset by handling missing values and scaling features.
 
 Machine Learning Models: Uses regression models (e.g., Linear Regression, Random Forest) for air quality prediction.
