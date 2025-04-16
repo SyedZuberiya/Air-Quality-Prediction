@@ -1,4 +1,4 @@
-**📜 Requirements**
+📜 Requirements
 
 pandas==1.5.3
 numpy==1.23.5
@@ -7,7 +7,7 @@ seaborn==0.11.2
 scikit-learn==1.1.2
 joblib==1.2.0
 
-**Explanation Of Ecah Requirement**
+Explanation Of Ecah Requirement
 
 pandas: For data manipulation and handling CSV files.
 
