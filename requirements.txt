@@ -1,0 +1,22 @@
+**📜 Requirements**
+
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.11.2
+scikit-learn==1.1.2
+joblib==1.2.0
+
+**Explanation Of Ecah Requirement**
+
+pandas: For data manipulation and handling CSV files.
+
+numpy: For numerical operations and handling arrays.
+
+matplotlib: For plotting visualizations like graphs and charts.
+
+seaborn: For creating attractive statistical plots, including heatmaps.
+
+scikit-learn: For machine learning tasks such as model training, splitting data, and evaluating metrics.
+
+joblib: For saving and loading the trained machine learning model.
